@@ -9,6 +9,8 @@
 
 ```➠ pkg i git```  
 
+```➠ rm -rf unliShare```  
+
 ```➠ git clone https://github.com/WahyuuXD/unliShare```  
 
 ```➠ pip install requests```  
