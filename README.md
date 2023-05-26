@@ -7,7 +7,7 @@
 
 ```➠ pkg i -y python python3```  
 
-```➠ pkg i git```  
+```➠ pkg i git play-audio```  
 
 ```➠ rm -rf unliShare```  
 
