@@ -1,3 +1,5 @@
+#  KAN UDAH GW BILANG TINGGAL PAKE AJA TOLOL
+
 import menu
 
 menu = p1
