@@ -1,1 +1,5 @@
+#  KAN UDAH GW BILANG TINGGAL PAKE AJA TOLOL
 
+import menu32b
+
+menu32b = p1
