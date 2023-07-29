@@ -31,7 +31,7 @@
 
 Run For 32 Bit :    
 
-```➠ python run_32.py```  
+```➠ python run32b.py```  
 
   
 
