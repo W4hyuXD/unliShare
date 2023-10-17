@@ -2,36 +2,24 @@
 # Tools Auto Share Post Facebook Unlimited  
 
 >Command :  
+```
+➠ pkg update && pkg upgrade
+➠ pkg i -y python python3
+➠ pkg i git play-audio
+➠ rm -rf unliShare
+➠ git clone https://github.com/WahyuuXD/unliShare
+➠ pip install requests
+➠ pip install bs4
+➠ pip install rich
+```
 
-```➠ pkg update && pkg upgrade```  
-
-```➠ pkg i -y python python3```  
-
-```➠ pkg i git play-audio```  
-
-```➠ rm -rf unliShare```  
-
-```➠ git clone https://github.com/WahyuuXD/unliShare```  
-
-```➠ pip install requests```  
-
-```➠ pip install bs4```  
-
-```➠ pip install rich```
-
->Run Script :      
-
-```➠ cd unliShare```  
-
-```➠ git pull```        
-
-```➠ ls (L kecil)```       
-
-```➠ python run.py```    
-
-Run For 32 Bit :    
-
-```➠ python run32b.py```  
+>Run Script :
+```
+➠ cd unliShare
+➠ git pull
+➠ ls (L kecil)
+➠ python run.py
+```
 
   
 
@@ -62,4 +50,8 @@ Dan Run Ulang Sc -Nya
 
 ***Follow My Social Media***   
 
-[![Facebokm Badge](https://img.shields.io/badge/-WahyuXD-white?style=flat&logo=Facebook&.logoColor=blue&link=https://www.facebook.com/Wahyu.eXDi/)](https://www.facebook.com/Wahyu.eXDi)
+[![Facebokm Badge](https://img.shields.io/badge/-WahyuXD-white?style=flat&logo=Facebook&.logoColor=blue&link=https://www.facebook.com/Wahyu.w4hyu.404/)](https://www.facebook.com/Wahyu.w4hyu.404)
+
+```python
+print("Good Luck!")
+```
