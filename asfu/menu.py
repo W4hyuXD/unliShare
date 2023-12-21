@@ -2,6 +2,6 @@
 # Github : https://github.com/WahyuuXD
 
 
-import run
+import menu
 
-run = p1
+menu = p1
