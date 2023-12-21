@@ -1,3 +1,7 @@
-import menu
+# Coding By : WahyuDin Ambia XD.
+# Github : https://github.com/WahyuuXD
 
-menu=p1
+
+import run
+
+run = p1
