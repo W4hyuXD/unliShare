@@ -21,9 +21,10 @@
 ➠ python run.py
 ```
 
-  
+>For 32bit
+➠ python Run_32.py
 
->Saran Author   
+>Note  
 
 ***Masukan Jumlah Share(Limit) 5.000 - Max 20.000 Agar Akun Tumbal Tidak Terkena Sesi / Di Nonaktifkan***
 
