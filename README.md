@@ -73,7 +73,7 @@ python3 Run_32.py
 
 ## My Social Media
 [![Facebokm Badge](https://img.shields.io/badge/-WahyuXD-blue?style=flat&logo=Facebook&.logoColor=blue&link=https://www.facebook.com/Wahyu.w4hyu.404/)](https://www.facebook.com/Wahyu.w4hyu.404)
-
+[![Instagram Badge](https://img.shields.io/badge/-why.404__-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/why.404__/)](https://www.instagram.com/why.404_)
 
   <details open>
   <summary><strong>:camera_flash: Screenshots</strong></summary>
