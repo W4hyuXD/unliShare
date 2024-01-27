@@ -1,6 +1,7 @@
 <h1 align='center'> ASFU</h1>
   <p align='center'> Tools Auto Share Post Facebook Unlimited </p1>
-
+  
+  <img src="/image/unliShare.png" />
 <details open>
   <summary><strong>Update Repository & Upgrade Package</strong></summary>
   
@@ -34,7 +35,7 @@ git clone https://github.com/WahyuuXD/unliShare
   <details>
   <summary><strong>Run Script</strong></summary>
 
-- Move to Folder
+- Masuk Ke Folder
 
 ```bash
 cd FaceBF
@@ -47,11 +48,11 @@ pip install -r requirements.txt
 ```bash
 git pull
 ```
-- Enter the Tools Menu
+- Masuk Menu Tools
 ```bash
 python3 run.py
 ```
-- For 32 Bit
+- Untuk 32 Bit
 ```bash
 python3 Run_32.py
 ```
@@ -59,7 +60,7 @@ python3 Run_32.py
 </details>
   
 
-<h1>Information</h1>
+<h1>Informasi</h1>
 <p> Masukan Jumlah Share(Limit) 5.000 - Max 20.000 Agar Akun Tumbal Tidak Terkena Spam / Di Nonaktifkan</p>
 
 <h1>Note</h1>
@@ -78,13 +79,13 @@ python3 Run_32.py
   <details open>
   <summary><strong>:camera_flash: Screenshots</strong></summary>
   
-   # Login Page
+   <p align="center"><b>Halaman Login</b></p>
    <img src="/image/login.png">
    
-   # Auto Share Page
-   <img src="/image/menu.png">
-   
-   # Result 
+   <p align="center"><b>Halaman Auto Share</b></p>
+   <img src="/image/share.png">
+
+   <p align="center"><b>Result</b></p>
    <img src="/image/result.png">
    <img src="/image/result1.png">
    <img src="/image/result2.png">
