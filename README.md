@@ -80,7 +80,7 @@ python3 Run_32.py
   <summary><strong>:camera_flash: Screenshots</strong></summary>
   
    <p align="center"><b>Halaman Login</b></p>
-   <img src="/image/login.png">
+   <img src="/image/Login.png">
    
    <p align="center"><b>Halaman Auto Share</b></p>
    <img src="/image/share.png">
