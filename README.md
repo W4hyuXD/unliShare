@@ -29,7 +29,7 @@ pkg update -y && pkg upgrade -y
   <summary><strong>Clone or Download This Repository</strong></summary>
 
 ```bash
-git clone https://github.com/WahyuuXD/unliShare
+git clone https://github.com/W4hyuXD/unliShare
 ```
   </details>
   <details>
