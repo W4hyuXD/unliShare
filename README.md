@@ -1,5 +1,5 @@
 <h1 align='center'> ASFU</h1>
-  <p align='center'> Tools Auto Share Post Facebook Unlimited </p1>
+  <p align='center'><strong><italic> Tools Auto Share Post Facebook Unlimited </italic></strong></p1>
   
   <img src="/image/unliShare.png" />
 <details open>
