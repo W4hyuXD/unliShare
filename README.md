@@ -52,7 +52,7 @@ git pull
 ```bash
 python3 run.py
 ```
-- Untuk 32 Bit
+- Untuk `32 Bit`  
 ```bash
 python3 Run_32.py
 ```
@@ -68,7 +68,7 @@ python3 Run_32.py
 - Apabila Share Post Sudah Tidak Berjalan Namun Di Termux Masih Berjalan, Kemungkinan Akun Tumbal Terkena Limit Dan Di Sarankan Untuk Mengganti Cookie Yang Baru
 # Tambahan
 - Untuk Mengganti Cookie
-- Ketik `Ctrl + z`
+- Tekan `Ctrl + z`
 - Kemudian Ketik `rm -rf cookie.txt token.txt`
 - Dan Ketik `python3 run.py` atau `python3 Run_32.py`
 
