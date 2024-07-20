@@ -3,5 +3,4 @@
 import os
 from asfu import menu
 
-os.system('git pull')
 menu.Menu_Tools()
