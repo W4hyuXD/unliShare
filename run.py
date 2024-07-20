@@ -3,4 +3,4 @@
 import os
 from asfu import menu
 
-menu.menu()
+asfu.menu()
