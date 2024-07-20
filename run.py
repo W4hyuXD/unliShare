@@ -2,6 +2,5 @@
 # TINGGAL PAKE AJA UDAH GAUSAH BANYAK TINGKAH
 import os
 from asfu import menu
-menu = Menu_Tools()
 
 menu.Menu_Tools()
