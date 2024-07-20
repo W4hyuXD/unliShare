@@ -1,5 +1,5 @@
 # Coding By : WahyuDin Ambia XD.
-# Github : https://github.com/WahyuuXD
+# Github : https://github.com/W4hyuXD
 
 
 import menu
