@@ -54,7 +54,7 @@ python3 run.py
 ```
 - Untuk `32 Bit`  
 ```bash
-python3 Run_32.py
+python3 Run32.py
 ```
 
 </details>
@@ -70,7 +70,7 @@ python3 Run_32.py
 - Untuk Mengganti Cookie
 - Tekan `Ctrl + z`
 - Kemudian Ketik `rm -rf cookie.txt token.txt`
-- Dan Ketik `python3 run.py` atau `python3 Run_32.py`
+- Dan Ketik `python3 run.py` atau `python3 Run32.py`
 
 ## My Social Media
 [![Facebokm Badge](https://img.shields.io/badge/-WahyuXD-blue?style=flat&logo=Facebook&.logoColor=blue&link=https://www.facebook.com/whyu.404/)](https://www.facebook.com/whyu.404)
