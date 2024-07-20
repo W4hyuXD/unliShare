@@ -1,6 +1,6 @@
 # YAHAHAHAA MAU RECODD YA TOLOL?
 # TINGGAL PAKE AJA UDAH GAUSAH BANYAK TINGKAH
 
-import asfu
+from asfu import menu
 
-asfu.Menu_Tools()
+menu.Menu_Tools()
