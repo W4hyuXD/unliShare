@@ -39,10 +39,6 @@ git clone https://github.com/W4hyuXD/unliShare
 ```bash
 cd FaceBF
 ```
-- Requirements
-```bash
-pip install -r requirements.txt
-```
 - Update Repository
 ```bash
 git pull
