@@ -65,7 +65,7 @@ python3 Run32.py
 
 <h1>Note</h1>
  
-- Apabila Share Post Sudah Tidak Berjalan Namun Di Termux Masih Berjalan, Kemungkinan Akun Tumbal Terkena Limit Dan Di Sarankan Untuk Mengganti Cookie Yang Baru
+- Apabila Share Post Sudah Berhenti Namun Di Terminal Masih Berjalan, Kemungkinan Akun Tumbal Terkena Limit Dan Di Sarankan Untuk Mengganti Cookie Yang Baru
 # Tambahan
 - Untuk Mengganti Cookie
 - Tekan `Ctrl + z`
