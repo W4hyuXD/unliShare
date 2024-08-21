@@ -19,7 +19,6 @@ pkg update -y && pkg upgrade -y
   pip install bs4
   pip install mechanize
   pip install rich
-  pip install stdiomask
   ```
 </details>
 
